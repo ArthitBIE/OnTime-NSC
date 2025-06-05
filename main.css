@@ -1,0 +1,113 @@
+
+body{
+    margin: 0;
+    
+}
+.narak{
+   background-color: red;
+   border: none;
+   padding:5vh 20% 20%;
+   margin: 0;
+   text-align: center;
+   font-size: 2rem;
+   color: white;
+  text-align: center;
+  margin-bottom: 5vh;
+  
+}
+
+.prompt-regular .small{
+    font-size: 0.5rem;
+    color: green;
+}
+.houkorrak{
+    background-color: white;
+    top: 12.5vh;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, 0%);
+    position: absolute;
+    width: 80%;
+    margin: auto;
+    border: 1px solid lightgray;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow:  1px 3px 5px lightgray;
+}
+.navbar{
+    margin: 10vh 0 0 0;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.navbar a{
+    text-decoration: none;
+    font-size: 0.8rem;
+    text-align: center;
+}
+.navbar a p{
+    margin: auto;
+    color: black;
+}
+.news{
+position: relative;
+display: flex;
+flex-direction: row;
+align-items: center;
+left:2.5vh;
+}
+.middle{
+    display: flex;
+    border: 1px solid lightgray;
+    margin: 5%;
+    padding: 5% 3%;
+    flex-direction: column;
+    border-radius: 25px;
+    width: 60vw;
+    align-self: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.textaboveimportantbutton{
+    margin-bottom:1vh;
+    align-self: center;
+}
+.importantbuttonundertextaboveimportantbutton{
+    align-self: center;
+}
+.importantbuttonundertextaboveimportantbuttonbutitactuallybutton{
+    border: none;
+    background-color: white;
+}
+.bottomnav{
+    background-color: white;
+    padding-top: 5%;
+    background-color: none;
+    display: flex;
+    justify-content: space-evenly;
+    border-top: 1px solid lightgray;
+}
+.battomnav a{
+    text-decoration: none;
+    font-size: 0.8rem;
+    text-align: center; 
+    
+}
+.bottombutton{
+    background-color: white;
+    border: none;
+}
+.battomnav a p{
+    margin: auto;
+    color: black;
+    
+}
+.ดำ{
+  position: fixed;
+  bottom: 0;
+  width: 100dvw;
+}
+#realtime{
+    color: green;
+}

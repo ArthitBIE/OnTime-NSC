@@ -1,0 +1,8 @@
+.logo img{
+    width: clamp(100px,10vw,20vw);
+}
+.leftimg{
+    
+    width: 100px;
+    height:100dvh;
+}
